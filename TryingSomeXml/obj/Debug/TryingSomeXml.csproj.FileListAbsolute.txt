@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\bin\Debug\TryingSomeXml.exe.config
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\bin\Debug\TryingSomeXml.exe
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\bin\Debug\TryingSomeXml.pdb
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\obj\Debug\TryingSomeXml.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\obj\Debug\TryingSomeXml.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\obj\Debug\TryingSomeXml.Form1.resources
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\obj\Debug\TryingSomeXml.Properties.Resources.resources
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\obj\Debug\TryingSomeXml.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\obj\Debug\TryingSomeXml.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\obj\Debug\TryingSomeXml.exe
+C:\Users\user\source\repos\TryingSomeXml\TryingSomeXml\obj\Debug\TryingSomeXml.pdb

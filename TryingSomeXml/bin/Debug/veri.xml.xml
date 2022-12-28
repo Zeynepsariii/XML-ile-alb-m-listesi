@@ -1,0 +1,1626 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Aps>
+	<Group>
+		<Page Width="595" Height="841" PaperTray="0">
+			<Canvas>
+				<Canvas>
+					<Clip>
+						<Path FillMode="Winding">
+							<PathFigure IsClosed="True">
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="841" />
+									<Point X="0" Y="-0.89001465" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="-0.89001465" />
+									<Point X="595.276" Y="-0.89001465" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="595.276" Y="-0.89001465" />
+									<Point X="595.276" Y="841" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="595.276" Y="841" />
+									<Point X="0" Y="841" />
+								</PolyLine>
+							</PathFigure>
+						</Path>
+					</Clip>
+					<Canvas>
+						<Clip>
+							<Path FillMode="Alternate">
+								<PathFigure IsClosed="True">
+									<PolyLine LineColor="#FF000000">
+										<Point X="0" Y="-0.89001465" />
+										<Point X="595.276" Y="-0.89001465" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="595.276" Y="-0.89001465" />
+										<Point X="595.276" Y="841" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="595.276" Y="841" />
+										<Point X="0" Y="841" />
+									</PolyLine>
+								</PathFigure>
+							</Path>
+						</Clip>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Bob Dylan</Text>
+							<Size Width="61.051758" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 67.05176 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 70.05176 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>USA</Text>
+							<Size Width="28.006836" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 98.05859 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 101.05859 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1985</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 129.0586 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 132.0586 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Bonnie</Text>
+							<Size Width="40.441406" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 172.5 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 176 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Tyler</Text>
+							<Size Width="30.317383" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 206.31738 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 209.31738 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 229.53809 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 232.53809 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1988</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 260.5381 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 263.5381 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Dolly Parton</Text>
+							<Size Width="71.94141" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 335.4795 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 338.4795 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>USA</Text>
+							<Size Width="28.006836" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 366.48633 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 369.48633 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1982</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 397.48633 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 400.48633 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Gary Moore</Text>
+							<Size Width="68.81055" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 469.29688 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 472.29688 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 492.51758 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 495.51758 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1990</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 523.5176 15.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 29.108826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Eros Ramazzotti</Text>
+							<Size Width="92.91406" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 92.5293 29.108826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 29.108826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>EU</Text>
+							<Size Width="18.66211" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 21.996094 29.108826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 29.108826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1997</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Bee Gees</Text>
+							<Size Width="53.251953" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 51.64453 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 54.64453 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 74.865234 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 77.865234 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1998</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 105.865234 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 108.865234 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>D</Text>
+							<Size Width="10.110352" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 118.975586 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>r.Hook</Text>
+							<Size Width="39.27246" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 158.24805 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 161.24805 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 181.46875 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 184.46875 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1973</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 212.46875 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 215.46875 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Rod Stewart</Text>
+							<Size Width="69.603516" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 285.07227 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 288.07227 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 308.29297 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 311.29297 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1990</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 339.29297 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 342.29297 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Andrea Bocelli</Text>
+							<Size Width="85.134766" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 427.42773 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 430.42773 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>EU</Text>
+							<Size Width="18.66211" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 449.08984 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 452.08984 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1996</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 480.08984 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 483.08984 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Percy Sledge</Text>
+							<Size Width="73.47949" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 556.56934 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 559.56934 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>USA</Text>
+							<Size Width="28.006836" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 587.5762 29.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 25.996094 42.608826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1987</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 21.996094 42.608826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 21.996094 42.608826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Savage</Text>
+							<Size Width="40.427734" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Rose</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 38 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 41 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>EU</Text>
+							<Size Width="18.66211" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 59.66211 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 62.66211 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1995</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 90.66211 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 93.66211 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Many</Text>
+							<Size Width="32.66211" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 126.32422 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 129.32422 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>USA</Text>
+							<Size Width="28.006836" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 157.33105 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 160.33105 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1999</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 188.33105 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 191.33105 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Kenny Rogers</Text>
+							<Size Width="80.48633" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 271.81738 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 274.81738 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 295.0381 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 298.0381 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1995</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 326.0381 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 328.55762 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Will Smith</Text>
+							<Size Width="61.83789" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 390.3955 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 393.3955 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>USA</Text>
+							<Size Width="28.006836" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 421.40234 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 424.40234 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1997</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 452.40234 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 454.07227 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Van Morrison</Text>
+							<Size Width="78.93457" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 533.00684 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 536.00684 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 556.22754 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 559.22754 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1971</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 587.22754 42.908813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 56.108826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Jorn Hoel</Text>
+							<Size Width="54.82422" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Norway</Text>
+							<Size Width="45.09668" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 52.48633 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 55.48633 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1996</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 83.48633 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 86.48633 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Cat Stevens</Text>
+							<Size Width="66.493164" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 152.97949 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 155.97949 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 176.2002 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 179.2002 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1990</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 207.2002 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 210.2002 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Sam Brown</Text>
+							<Size Width="66.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 276.7002 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 279.7002 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 299.9209 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 302.9209 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1988</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 330.9209 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 333.9209 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>T'Pau</Text>
+							<Size Width="32.07422" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 365.99512 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 368.99512 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 389.21582 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 392.21582 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1987</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 420.21582 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 422.79395 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Tina</Text>
+							<Size Width="25.655273" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 448.44922 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 451.94922 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Turner</Text>
+							<Size Width="38.089844" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 490.03906 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 493.03906 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 513.25977 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 516.25977 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1983</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 544.25977 56.408813">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 69.608826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Kim Larsen</Text>
+							<Size Width="66.47949" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 72.47949 69.608826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 69.608826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>EU</Text>
+							<Size Width="18.66211" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 69.608826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 69.608826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1983</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Luciano Pavarotti</Text>
+							<Size Width="99.91406" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 101.137695 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 104.137695 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 124.3584 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 127.3584 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1991</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 155.3584 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 158.3584 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Otis Redding</Text>
+							<Size Width="74.2793" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 232.6377 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 235.6377 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>USA</Text>
+							<Size Width="28.006836" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 263.64453 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 266.64453 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1968</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 294.64453 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 297.64453 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Simply Red</Text>
+							<Size Width="66.506836" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 364.15137 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 367.15137 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>EU</Text>
+							<Size Width="18.66211" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 385.81348 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 388.81348 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1985</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 416.81348 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 419.81348 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>The Communards</Text>
+							<Size Width="100.70703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 520.5205 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 523.5205 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>UK</Text>
+							<Size Width="20.220703" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 543.7412 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 546.7412 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1987</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 574.7412 69.90881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 83.108826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>Joe Cocker</Text>
+							<Size Width="62.589844" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 83.108826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text> </Text>
+							<Size Width="3.5" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 83.108826">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>USA</Text>
+							<Size Width="28.006836" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+						<Glyphs OutlineWidth="0.5" CharSpace="0" RenderTransform="1 0 -0 1 6 83.40881">
+							<Font SizePoints="14" Style="Regular" FamilyName="SVACJD+Times New Roman" Capitals="Normal" ResourceId="1" />
+							<Origin X="0" Y="0" />
+							<Text>1987</Text>
+							<Size Width="28" Height="15.503905" />
+							<Brush>
+								<SolidBrush Color="#FF000000" />
+							</Brush>
+							<Tag>convertedFont</Tag>
+						</Glyphs>
+					</Canvas>
+				</Canvas>
+			</Canvas>
+		</Page>
+	</Group>
+	<Resources>
+		<Resource Id="1">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AOQA7wEWASABKQFqAXMB4wJ+ApACtAMOAxADIwM1A0EDVANZA4gDlAPIA84EcgSrBNoFSQVhBasHYf5u/tH/S/+EAAAAAQAGAB4AJwAsADQANwBiAGYAagBrAGwAcABwAHIAfACBAIoAjgCRAJIAoACrALgAvwDJANUA3QDsAPQBAAEhATABaQFqAW0BfAGFAY4BjgGZAawBwQHFAckB4QH2AfYB9gIiAiICKAI2Aj8CQwJGAmcChQKFApQC0ALWAugDHANjA38DgAOAA54DtgPZBAAEBAT/BTIFMgVIBYsFpwbLBygHSAdiCMz87f0q/Vn93v4A/hr+W/6W/sH+5/9W/3kAAQAlAC0ALgB8AIcAkQCZAKEApQClAKoArwC2AMYAzADXAN0A7ADyAQIBBQEXARgBIwEqASwBMQE/AUcBSQFJAU0BUQFRAVUBVQFXAVoBWgFhAWIBaAFoAX8BgAGCAYMBhAGNAZUBlQGVAZgBmQGlAakBtgG2AbcBugG6AdUB3wHmAeoB8gIAAgACAwIXAiUCJwIvAjkCQwJDAkcCTwJSAlICZwJvAm8CcAJyAnYCfgKnArMCuQLWAxMDJQMtA2EDcQOZA64DwgPUA/kEAgQsBC8EPARWBGcEgwTPBNEE2AT7BR8FRQVoBZ4FwgYbBjQGVQZqBpgGrwboBvwHBgdQB2IHfAfUB/8IJQCtAMcAqgC1AAAAAAAAAAAAAAAAAC8GzwFzBRQEeALfAJwAGANwBYcBVQAlAAYCVANsA44D0gVmAfADIAHaAYoDaQNr/6MDRgL4A28BVgK/ASIDHwU6A2YAjAD/AasC4QL0AucEFQFUAukBKASRAbcCbwNDAgYAAAAABdMEFQSDBegAAALXADoCfQHAAsUDgwOD/70AOgWeAd8FngLRACAE4AITAN8BwAGHApcAAADOAmkCiwBYBDQF+wBpAVoBqQV4AYIBPgKIASoD1ASeAOUDIwLzAfABlgB6AM0BSgQkAl4COQGrAM8A/QEeAO0BcQBwAZUAQAG7Ad0BuAABAagDpwFMAgwBjQGwAg0BNwEAAM0DIQHUAwoAWQAAAAABJgIVAVAC8AJVA7wG0AM1AQEA0ADSAHoBAwEwAHwAAAAAAAAAAAD+AG4AZgCUAicAKwBFAE0A0wEyABgAlwBBAPT+vP/pABYF2AWLAJEAoQMsAFIAMABd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</Resource>
+	</Resources>
+</Aps>
